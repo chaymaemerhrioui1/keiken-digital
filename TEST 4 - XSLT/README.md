@@ -58,7 +58,7 @@ You are provided with the file **`books.xml`**, which contains the following XML
             <rating>4</rating>
         </book>
     </category>
-</library>
+</library>z
 ```
 
 ### **2. Review the Expected Output**
